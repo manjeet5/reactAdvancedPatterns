@@ -1,0 +1,24 @@
+{
+  "name": "reactadvancedpatterns",
+  "version": "1.0.0",
+  "description": "Coding is fun!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manjeet5/reactAdvancedPatterns.git"
+  },
+  "keywords": [
+    "react",
+    "advanced",
+    "patterns"
+  ],
+  "author": "Manjeet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manjeet5/reactAdvancedPatterns/issues"
+  },
+  "homepage": "https://github.com/manjeet5/reactAdvancedPatterns#readme"
+}

@@ -2,6 +2,7 @@
   "extends": "airbnb",
   "plugins":[
   "react",
+  "babel",
   "jsx-a11y",
   "import"
   ],
